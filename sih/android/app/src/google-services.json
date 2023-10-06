@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "972100098172",
+    "firebase_url": "https://codebots-23dad-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "codebots-23dad",
+    "storage_bucket": "codebots-23dad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972100098172:android:bb7ed88f221d9230cf91f9",
+        "android_client_info": {
+          "package_name": "com.example.sih"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbpJIRUuoS0YG2d2_LRzDzvUVakeAw6A4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
